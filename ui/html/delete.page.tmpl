@@ -1,0 +1,16 @@
+{{template "base" .}}
+
+{{define "title"}}Удалить заметку{{end}}
+
+{{define "main"}}
+    <h2>Удалить заметку по её ID</h2>
+    <form action="/snippet/delete" method="POST">
+        <div>
+            <label for="id">ID:</label>
+            <input type="text" id="id" name="id" required>
+        </div>
+        <div>
+            <button type="submit">Удалить</button>
+        </div>
+    </form>
+{{end}}
