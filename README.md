@@ -119,6 +119,10 @@ TREFLX
 [![GitHub](https://img.shields.io/badge/GitHub-TREFLX-blue?style=flat&logo=github)](https://github.com/TREFLX)
 [![Telegram](https://img.shields.io/badge/Telegram-Treflx-blue?style=flat&logo=telegram)](https://t.me/Treflx)
 
+📷 Скриншоты
+![image](https://github.com/user-attachments/assets/96306f50-48bf-4f9a-915a-4ea4a31699c2)
+![image](https://github.com/user-attachments/assets/254ff4c0-cc0e-4a73-9e29-e3235810dfe2)
+
 
 Ссылки 🔗
 
